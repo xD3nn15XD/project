@@ -1,0 +1,21 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "python.autoComplete.extraPaths": [
+        "/home/dennis/code/project/install/teleop/lib/python3.8/site-packages",
+        "/home/dennis/code/project/install/tb3_description/lib/python3.8/site-packages",
+        "/home/dennis/code/project/install/smach_viewer/lib/python3.8/site-packages",
+        "/home/dennis/code/project/install/smach_ros/lib/python3.8/site-packages",
+        "/home/dennis/code/project/install/smach_msgs/lib/python3.8/site-packages",
+        "/home/dennis/code/project/install/smach/lib/python3.8/site-packages",
+        "/home/dennis/code/project/install/rqt_joy/lib/python3.8/site-packages",
+        "/home/dennis/code/project/install/my_robot_slam/lib/python3.8/site-packages",
+        "/home/dennis/code/project/install/my_robot_navigation/lib/python3.8/site-packages",
+        "/home/dennis/code/project/install/img_pub/lib/python3.8/site-packages",
+        "/home/dennis/code/project/install/custom_msg/lib/python3.8/site-packages",
+        "/home/dennis/code/project/install/curator/lib/python3.8/site-packages",
+        "/home/dennis/code/project/install/arams/lib/python3.8/site-packages",
+        "/home/dennis/code/project/install/apriltag_msgs/lib/python3.8/site-packages",
+        "/home/dennis/code/project/install/apriltag_listener/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages"
+    ]
+}
